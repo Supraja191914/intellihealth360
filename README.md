@@ -16,13 +16,11 @@ IntelliHealth360 is a full-scale, end-to-end healthcare analytics platform built
 - **GitHub**: Version control, CI/CD (optional simulation)
 - **Dataset**: Synthea synthetic EHR data (CSV)
   
-## 🧠 IntelliHealth360: Unified Healthcare Insights with AI + Fabric
 
-This project uses Microsoft Fabric to ingest, transform, and visualize synthetic healthcare data using OneLake, Lakehouse, and Power BI.
 
 ### 🧱 Architecture Overview
 
-![IntelliHealth360 Architecture](./docs/intellihealth360.png)
+![IntelliHealth360 Architecture](./docs/intellihealth_360.png)
 
 
 
