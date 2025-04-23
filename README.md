@@ -20,7 +20,7 @@ IntelliHealth360 is a full-scale, end-to-end healthcare analytics platform built
 
 ### 🧱 Architecture Overview
 
-![IntelliHealth360 Architecture](./docs/intellihealth_360.png)
+![IntelliHealth360 Architecture](./docs/intelliHealth_360.png)
 
 
 
