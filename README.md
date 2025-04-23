@@ -17,10 +17,9 @@ IntelliHealth360 is a full-scale, end-to-end healthcare analytics platform built
 - **Dataset**: Synthea synthetic EHR data (CSV)
   
 
+![InterHealth_360](https://github.com/user-attachments/assets/4fe83cc4-edfd-4d6d-94ee-f7605fe4f48f)
 
-### 🧱 Architecture Overview
 
-![IntelliHealth360 Architecture](./docs/intelliHealth_360.png)
 
 
 
